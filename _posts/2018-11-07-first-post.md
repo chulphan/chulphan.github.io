@@ -4,9 +4,9 @@ date: 2018-11-07
 categories:  start open blog!!
 ---
 
-name: chulphan\n
+name: chulphan
 
-tech: react, java, javascript, ...\n
+tech: react, java, javascript, ...
 
-language: korean(base), chiness...\n
+language: korean(base), chiness...
 
