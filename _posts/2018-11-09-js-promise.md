@@ -110,4 +110,5 @@ delay(3000)
 ```
 
 
-
+참고: [A Simple Guide to ES6 Promises — Brandon Morelli][reference_link]
+[reference_link]: https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
